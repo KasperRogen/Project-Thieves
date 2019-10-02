@@ -21,11 +21,11 @@ public class MovementScript : NetworkBehaviour
             return;
 
         rb = GetComponent<Rigidbody>();
-        GuardVision.GuardObservables.Add(gameObject);
+        GuardVision.GuardObservables.Add(new GuardVision.GuardThreat(gameObject, 0f));
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         if (isLocalPlayer == false)
             return;
@@ -36,6 +36,11 @@ public class MovementScript : NetworkBehaviour
 
     }
 
+    
+    
+    
+    
+    
     private void Rotate()
     {
         yRot += -Input.GetAxis("Mouse Y") * Time.deltaTime * 50;

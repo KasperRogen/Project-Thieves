@@ -1,0 +1,12 @@
+tree("Root")
+    sequence
+        CheckVision    
+        fallback
+            while
+                HasDetectedTarget
+                sequence
+                    CheckVision    
+                    ChasePlayer
+            IdlePatrol
+	    
+

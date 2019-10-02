@@ -3,13 +3,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
+using Panda;
 
 public class Patrol : MonoBehaviour
 {
     [SerializeField]
     List<Vector3> PatrolPoints;
-    [SerializeField]
-    float speed = 10f;
     [SerializeField]
     [Range(0, 10)]
     float IdleTime = 5;
@@ -44,6 +43,19 @@ public class Patrol : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        
+    }
+    
+    private void FixedUpdate()
+    {
+        anim.SetFloat("Speed", agent.velocity.magnitude);
+        anim.SetFloat("AnimSpeed", agent.velocity.magnitude / agent.speed);
+    }
+
+    [Task]
+    public void IdlePatrol()
+    {
         if(player == null)
         {
             player = GameObject.FindGameObjectWithTag("Player");
@@ -53,6 +65,7 @@ public class Patrol : MonoBehaviour
 
         else if(Vector3.Distance(transform.position, agent.destination) < 2)
         {
+            agent.speed = 2;
             if(Time.time - doneTime > IdleTime)
             {
                 agent.SetDestination(PatrolPoints[pointIndex = pointIndex + 1 != PatrolPoints.Count ? ++pointIndex : 0]);
@@ -60,12 +73,12 @@ public class Patrol : MonoBehaviour
             }
         }
 
-        anim.SetFloat("Speed", agent.velocity.magnitude);
-        anim.SetFloat("AnimSpeed", agent.velocity.magnitude / agent.speed);
-        
+        Task.current.Succeed();
     }
-
-
+    
+    
+    
+    
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.red;
