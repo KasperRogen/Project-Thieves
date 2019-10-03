@@ -17,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Scripts/Tank.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Guard/GuardVision.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scripts/Ball.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GuardProperties.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FPSDisplay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Mirror/Components/NetworkTransformBase.cs" root0="FORCE_HIGHLIGHTING" />
@@ -30,12 +31,13 @@
         <option value="$PROJECT_DIR$/Assets/FPSDisplay.cs" />
         <option value="$PROJECT_DIR$/Assets/FastIK/Scripts/FastIK/FastIKFabric.cs" />
         <option value="$PROJECT_DIR$/Assets/IDetectable.cs" />
-        <option value="$PROJECT_DIR$/Assets/GuardState.cs" />
         <option value="$PROJECT_DIR$/Assets/GuardVision.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MovementScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Guard/GuardBehaviour.txt" />
-        <option value="$PROJECT_DIR$/Assets/Patrol.cs" />
+        <option value="$PROJECT_DIR$/Assets/GuardState.cs" />
         <option value="$PROJECT_DIR$/Assets/Guard/GuardVision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Patrol.cs" />
+        <option value="$PROJECT_DIR$/Assets/GuardProperties.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovementScript.cs" />
       </list>
     </option>
   </component>
@@ -92,6 +94,7 @@
       <workItem from="1569919026107" duration="2738000" />
       <workItem from="1569928679642" duration="4722000" />
       <workItem from="1570043345465" duration="7045000" />
+      <workItem from="1570079691768" duration="4025000" />
     </task>
     <servers />
   </component>

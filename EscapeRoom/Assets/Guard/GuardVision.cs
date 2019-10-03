@@ -11,40 +11,29 @@ using UnityEngine.Serialization;
 
 public class GuardVision : MonoBehaviour
 {
-    public static readonly List<GuardThreat> GuardObservables = new List<GuardThreat>();
+
 
     [Header("Global Vision")] [SerializeField]
     Transform HeadObject;
-
     [SerializeField] private float MaxHeadRotation = 90;
-
-
-
-    [Space(10)] [SerializeField] float DetectionFalloffRate;
-    [SerializeField] float GuardDetectionThreshold;
-    [SerializeField] float MaxDetectionLevel;
-    Transform lookTarget;
-    Quaternion LastCalcHeadRotation;
-
     [SerializeField]
     public List<Vision> visions = new List<Vision>();
+
     
     
+    
+    
+    
+    
+    
+    Quaternion LastCalcHeadRotation;
+
+    
+
+    private GuardProperties _guardProperties;
 
 
-    public class GuardThreat
-    {
-        public GuardThreat(GameObject gameObject, float detectionLevel)
-        {
-            GameObject = gameObject;
-            this.detectionLevel = detectionLevel;
-        }
-
-        public GameObject GameObject;
-        public float detectionLevel;
-        
-        
-    }
+    
     [Serializable]
     public class Vision
     {
@@ -65,13 +54,10 @@ public class GuardVision : MonoBehaviour
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
+        _guardProperties = GetComponent<GuardProperties>();
     }
     
 
-    // Update is called once per frame
-    void Update()
-    {
-    }
 
 
 //    private void LateUpdate()
@@ -113,11 +99,7 @@ public class GuardVision : MonoBehaviour
 //    }
 
 
-    [Task]
-    void HasDetectedTarget()
-    {
-        Task.current.Complete(GuardObservables.Any(GO => GO.detectionLevel >= GuardDetectionThreshold));
-    }
+
 
 
 
@@ -133,8 +115,8 @@ public class GuardVision : MonoBehaviour
         {
             foreach (GameObject observedGameObject in SeesObservable(vision))
             {
-                GuardThreat target = GuardObservables.Find(GO => GO.GameObject == observedGameObject && 
-                                                                  GO.detectionLevel < MaxDetectionLevel);
+                GuardProperties.GuardThreat target = _guardProperties.GuardObservables.Find(GO => GO.GameObject == observedGameObject && 
+                                                                  GO.detectionLevel < _guardProperties.MaxDetectionLevel);
                 if (target != null)
                 {
                     target.detectionLevel += vision.DetectionRate * Time.fixedDeltaTime;
@@ -147,22 +129,20 @@ public class GuardVision : MonoBehaviour
 
         if (anySeen == false)
         {
-            GuardObservables.Where(GO => GO.detectionLevel > 0).ToList()
-                .ForEach(GO => GO.detectionLevel -= DetectionFalloffRate * Time.fixedDeltaTime);
+            _guardProperties.GuardObservables.Where(GO => GO.detectionLevel > 0).ToList()
+                .ForEach(GO => GO.detectionLevel -= _guardProperties.DetectionFalloffRate * Time.fixedDeltaTime);
         }
-
-            Task.current.Succeed();
+        Task.current.Succeed();
     }
 
 
     List<GameObject> SeesObservable(Vision vision)
     {
-        // Vector3 direction, float distance, float angle
         List<GameObject> seenObservables = new List<GameObject>();
-        if (GuardObservables == null)
+        if (_guardProperties.GuardObservables == null)
             return null;
 
-        foreach (GuardThreat observable in GuardObservables.Where(o =>
+        foreach (GuardProperties.GuardThreat observable in _guardProperties.GuardObservables.Where(o =>
             Vector3.Distance(transform.position, o.GameObject.transform.position) <= vision.Distance))
         {
             Vector3 observableVector = observable.GameObject.transform.position - HeadObject.transform.position;
@@ -183,8 +163,9 @@ public class GuardVision : MonoBehaviour
     [Task]
     public void ChasePlayer()
     {
+        _guardProperties.currentState = GuardProperties.GuardStates.CHASING;
         agent.speed = 8;
-        agent.destination = GuardObservables.OrderByDescending(GO => GO.detectionLevel)
+        agent.destination = _guardProperties.GuardObservables.OrderByDescending(GO => GO.detectionLevel)
             .First().GameObject.transform.position;
         Task.current.Succeed();
     }

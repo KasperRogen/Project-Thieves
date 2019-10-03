@@ -4709,6 +4709,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Guard
       objectReference: {fileID: 0}
+    - target: {fileID: 7316972877787242353, guid: ffe1b864f1d17384a9430cf8733bd09b,
+        type: 3}
+      propertyPath: m_TagString
+      value: Guard
+      objectReference: {fileID: 0}
     - target: {fileID: 7316972877787242359, guid: ffe1b864f1d17384a9430cf8733bd09b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4764,15 +4769,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -1.531
       objectReference: {fileID: 0}
-    - target: {fileID: 7316972877787242352, guid: ffe1b864f1d17384a9430cf8733bd09b,
-        type: 3}
+    - target: {fileID: 1210913557, guid: ffe1b864f1d17384a9430cf8733bd09b, type: 3}
       propertyPath: DetectionFalloffRate
-      value: 30
+      value: 50
       objectReference: {fileID: 0}
-    - target: {fileID: 7316972877787242352, guid: ffe1b864f1d17384a9430cf8733bd09b,
-        type: 3}
-      propertyPath: visions.Array.data[3].DetectionRate
-      value: 15
+    - target: {fileID: 1210913557, guid: ffe1b864f1d17384a9430cf8733bd09b, type: 3}
+      propertyPath: DetectionThreshold
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1210913557, guid: ffe1b864f1d17384a9430cf8733bd09b, type: 3}
+      propertyPath: MaxDetectionLevel
+      value: 200
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ffe1b864f1d17384a9430cf8733bd09b, type: 3}

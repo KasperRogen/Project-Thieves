@@ -10,6 +10,7 @@
           <e p="GuardBehaviour.txt" t="Include" />
           <e p="GuardVision.cs" t="Include" />
         </e>
+        <e p="GuardProperties.cs" t="Include" />
         <e p="Mirror" t="Include">
           <e p="Components" t="Include">
             <e p="NetworkAnimator.cs" t="Include" />

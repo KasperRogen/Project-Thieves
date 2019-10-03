@@ -14,6 +14,8 @@ public class MovementScript : NetworkBehaviour
 
     float yRot;
 
+    private GuardProperties _guardProperties;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -21,7 +23,13 @@ public class MovementScript : NetworkBehaviour
             return;
 
         rb = GetComponent<Rigidbody>();
-        GuardVision.GuardObservables.Add(new GuardVision.GuardThreat(gameObject, 0f));
+        
+        
+        foreach (GameObject GO in GameObject.FindGameObjectsWithTag(("Guard")))
+        {
+            GO.GetComponent<GuardProperties>().GuardObservables.Add(new GuardProperties.GuardThreat(gameObject, 0f));
+        }
+        
     }
 
     // Update is called once per frame
