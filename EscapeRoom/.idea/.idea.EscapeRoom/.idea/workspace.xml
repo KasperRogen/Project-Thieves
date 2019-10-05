@@ -12,15 +12,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/PandaBehaviour/Examples/02_PlayTag/Assets/Computer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scripts/Ball.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FPSDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Components/NetworkTransformBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RagdollManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PandaBehaviour/Examples/02_PlayTag/Assets/Computer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/NetworkBehaviourProcessor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Scripts/Tank.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Guard/GuardVision.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scripts/Ball.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GuardProperties.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FPSDisplay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Components/NetworkTransformBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Patrol.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Mirror/Editor/NetworkInformationPreview.cs" root0="FORCE_HIGHLIGHTING" />
@@ -34,10 +36,12 @@
         <option value="$PROJECT_DIR$/Assets/GuardVision.cs" />
         <option value="$PROJECT_DIR$/Assets/Guard/GuardBehaviour.txt" />
         <option value="$PROJECT_DIR$/Assets/GuardState.cs" />
-        <option value="$PROJECT_DIR$/Assets/Guard/GuardVision.cs" />
         <option value="$PROJECT_DIR$/Assets/Patrol.cs" />
         <option value="$PROJECT_DIR$/Assets/GuardProperties.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovementScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/JointManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/RagdollManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Guard/GuardVision.cs" />
       </list>
     </option>
   </component>
@@ -95,6 +99,7 @@
       <workItem from="1569928679642" duration="4722000" />
       <workItem from="1570043345465" duration="7045000" />
       <workItem from="1570079691768" duration="4025000" />
+      <workItem from="1570227394102" duration="4853000" />
     </task>
     <servers />
   </component>

@@ -163,6 +163,22 @@ public class GuardVision : MonoBehaviour
     [Task]
     public void ChasePlayer()
     {
+
+
+        if (Vector3.Distance(agent.destination, transform.position) < 5)
+        {
+            GetComponent<RagdollManager>().EnableRagdoll();
+            GetComponent<Patrol>().enabled = false;
+            GetComponentInChildren<Animator>().enabled = false;
+            GetComponent<NavMeshAgent>().enabled = false;
+            this.enabled = false;
+            return;
+        }
+        
+        
+        
+        
+        
         _guardProperties.currentState = GuardProperties.GuardStates.CHASING;
         agent.speed = 8;
         agent.destination = _guardProperties.GuardObservables.OrderByDescending(GO => GO.detectionLevel)

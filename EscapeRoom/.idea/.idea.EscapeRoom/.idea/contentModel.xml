@@ -267,6 +267,7 @@
           <e p="README.txt" t="Include" />
         </e>
         <e p="Patrol.cs" t="Include" />
+        <e p="RagdollManager.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="CameraController.cs" t="Include" />
           <e p="MovementScript.cs" t="Include" />

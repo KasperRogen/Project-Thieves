@@ -188,7 +188,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7024337492014724753}
   m_LocalRotation: {x: 0, y: -0.9659258, z: 0, w: 0.2588191}
-  m_LocalPosition: {x: 22.744864, y: 1.77, z: 13.840644}
+  m_LocalPosition: {x: -29.04, y: 1, z: 23}
   m_LocalScale: {x: 1, y: 1.8, z: 1}
   m_Children:
   - {fileID: 1687258585}
@@ -269,8 +269,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   serverOnly: 0
   localPlayerAuthority: 1
-  m_AssetId: acb8563fc42c10d4a82b8fc3d9ba09e9
-  m_SceneId: 0
+  m_AssetId: 
+  m_SceneId: 402859563
 --- !u!54 &-6461081603470988677
 Rigidbody:
   m_ObjectHideFlags: 0
