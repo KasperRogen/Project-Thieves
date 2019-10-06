@@ -171,6 +171,7 @@ public class GuardVision : MonoBehaviour
             GetComponent<Patrol>().enabled = false;
             GetComponentInChildren<Animator>().enabled = false;
             GetComponent<NavMeshAgent>().enabled = false;
+            GetComponent<PandaBehaviour>().enabled = false;
             this.enabled = false;
             return;
         }

@@ -2,10 +2,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using Mirror;
 using UnityEngine;
 using Panda;
 
-public class GuardProperties : MonoBehaviour
+public class GuardProperties : NetworkBehaviour
 {
     
     

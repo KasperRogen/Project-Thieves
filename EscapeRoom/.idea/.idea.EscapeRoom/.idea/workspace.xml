@@ -37,11 +37,11 @@
         <option value="$PROJECT_DIR$/Assets/Guard/GuardBehaviour.txt" />
         <option value="$PROJECT_DIR$/Assets/GuardState.cs" />
         <option value="$PROJECT_DIR$/Assets/Patrol.cs" />
-        <option value="$PROJECT_DIR$/Assets/GuardProperties.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovementScript.cs" />
         <option value="$PROJECT_DIR$/Assets/JointManager.cs" />
         <option value="$PROJECT_DIR$/Assets/RagdollManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Guard/GuardVision.cs" />
+        <option value="$PROJECT_DIR$/Assets/GuardProperties.cs" />
       </list>
     </option>
   </component>
@@ -100,6 +100,7 @@
       <workItem from="1570043345465" duration="7045000" />
       <workItem from="1570079691768" duration="4025000" />
       <workItem from="1570227394102" duration="4853000" />
+      <workItem from="1570311451253" duration="435000" />
     </task>
     <servers />
   </component>
