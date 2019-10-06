@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-10-06T18:04:45.653+02:00
-  initializedAtString: 2019-10-06T17:57:10.111+02:00
+  lastUpdatedAtString: 2019-10-06T20:18:33.500+02:00
+  initializedAtString: 2019-10-06T20:18:33.500+02:00
   currentGitRemote:
     name: origin
     url: https://github.com/kasperhangard/Project-Thieves.git
