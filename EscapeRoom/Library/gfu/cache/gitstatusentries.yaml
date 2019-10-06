@@ -13,18 +13,64 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-10-06T17:45:47.924+02:00
-  initializedAtString: 2019-10-06T17:09:57.100+02:00
+  lastUpdatedAtString: 2019-10-06T18:04:45.484+02:00
+  initializedAtString: 2019-10-06T17:57:10.128+02:00
   entries:
+  - path: EscapeRoom\Assets\Level Design\AltBane.mtl
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Assets\Level
+      Design\AltBane.mtl
+    projectPath: Assets\Level Design\AltBane.mtl
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Assets\Level Design\AltBane.obj
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Assets\Level
+      Design\AltBane.obj
+    projectPath: Assets\Level Design\AltBane.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Assets\Level Design\GroundPlane.mtl
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Assets\Level
+      Design\GroundPlane.mtl
+    projectPath: Assets\Level Design\GroundPlane.mtl
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Assets\Level Design\GroundPlane.obj
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Assets\Level
+      Design\GroundPlane.obj
+    projectPath: Assets\Level Design\GroundPlane.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: EscapeRoom\Library\assetDatabase3
     fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: EscapeRoom\Library\EditorInstance.json
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: EscapeRoom\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -46,87 +92,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: EscapeRoom\Library\metadata\0c\0c2b92ae2434afe4ba5f1c097beed5b3.info
-    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\0c\0c2b92ae2434afe4ba5f1c097beed5b3.info
-    projectPath: Library\metadata\0c\0c2b92ae2434afe4ba5f1c097beed5b3.info
+  - path: EscapeRoom\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: EscapeRoom\Library\metadata\0d\0d7e9b0860b03184c84fc29fee849d55
-    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\0d\0d7e9b0860b03184c84fc29fee849d55
-    projectPath: Library\metadata\0d\0d7e9b0860b03184c84fc29fee849d55
+  - path: EscapeRoom\Library\metadata\07\0754af7a3913bf04aa424b35001096ba.info
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\07\0754af7a3913bf04aa424b35001096ba.info
+    projectPath: Library\metadata\07\0754af7a3913bf04aa424b35001096ba.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: EscapeRoom\Library\metadata\2b\2ba1e206a1197ef419f0ace76e02e5c9.info
-    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\2b\2ba1e206a1197ef419f0ace76e02e5c9.info
-    projectPath: Library\metadata\2b\2ba1e206a1197ef419f0ace76e02e5c9.info
+  - path: EscapeRoom\Library\metadata\30\30327bf339c9b264580bd54ca3d46ef9.info
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\30\30327bf339c9b264580bd54ca3d46ef9.info
+    projectPath: Library\metadata\30\30327bf339c9b264580bd54ca3d46ef9.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: EscapeRoom\Library\metadata\30\30da2cdacc183004e963790f3c1b2e29.info
-    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\30\30da2cdacc183004e963790f3c1b2e29.info
-    projectPath: Library\metadata\30\30da2cdacc183004e963790f3c1b2e29.info
+  - path: EscapeRoom\Library\metadata\55\558a6807535880347a091f2725e16728
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\55\558a6807535880347a091f2725e16728
+    projectPath: Library\metadata\55\558a6807535880347a091f2725e16728
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: EscapeRoom\Library\metadata\98\98faa822103ce254da1e62032eb0ab2b.info
-    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\98\98faa822103ce254da1e62032eb0ab2b.info
-    projectPath: Library\metadata\98\98faa822103ce254da1e62032eb0ab2b.info
+  - path: EscapeRoom\Library\metadata\55\558a6807535880347a091f2725e16728.info
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\55\558a6807535880347a091f2725e16728.info
+    projectPath: Library\metadata\55\558a6807535880347a091f2725e16728.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: EscapeRoom\Library\metadata\a5\a504788772dfd494192372471f26db7a.info
-    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\a5\a504788772dfd494192372471f26db7a.info
-    projectPath: Library\metadata\a5\a504788772dfd494192372471f26db7a.info
+  - path: EscapeRoom\Library\metadata\dd\dd5c854494305a449898d6882c13e5bf
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\dd\dd5c854494305a449898d6882c13e5bf
+    projectPath: Library\metadata\dd\dd5c854494305a449898d6882c13e5bf
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: EscapeRoom\Library\metadata\b3\b3748437054b5fc418397075d594cac1.info
-    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\b3\b3748437054b5fc418397075d594cac1.info
-    projectPath: Library\metadata\b3\b3748437054b5fc418397075d594cac1.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: EscapeRoom\Library\metadata\c3\c36f7e1026dfa7d419b05da98222cf08.info
-    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\c3\c36f7e1026dfa7d419b05da98222cf08.info
-    projectPath: Library\metadata\c3\c36f7e1026dfa7d419b05da98222cf08.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: EscapeRoom\Library\metadata\cc\cc3238e8041099f48a5dd6e7b6f7d9d8.info
-    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\cc\cc3238e8041099f48a5dd6e7b6f7d9d8.info
-    projectPath: Library\metadata\cc\cc3238e8041099f48a5dd6e7b6f7d9d8.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: EscapeRoom\Library\metadata\cc\ccd28e05d4dee044dae7d30997e903ee.info
-    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\cc\ccd28e05d4dee044dae7d30997e903ee.info
-    projectPath: Library\metadata\cc\ccd28e05d4dee044dae7d30997e903ee.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: EscapeRoom\Library\metadata\dd\dd05e607c5fdf90438ba0d52ddd471ca.info
-    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\dd\dd05e607c5fdf90438ba0d52ddd471ca.info
-    projectPath: Library\metadata\dd\dd05e607c5fdf90438ba0d52ddd471ca.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: EscapeRoom\Library\ShaderCache\2\238faa1becbbf206cf2a5358e0137a1a.bin
-    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\ShaderCache\2\238faa1becbbf206cf2a5358e0137a1a.bin
-    projectPath: Library\ShaderCache\2\238faa1becbbf206cf2a5358e0137a1a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: EscapeRoom\Library\ShaderCache\4\4cc15b98d979303324f541da29710c75.bin
-    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\ShaderCache\4\4cc15b98d979303324f541da29710c75.bin
-    projectPath: Library\ShaderCache\4\4cc15b98d979303324f541da29710c75.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: EscapeRoom\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
+  - path: EscapeRoom\Library\metadata\dd\dd5c854494305a449898d6882c13e5bf.info
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\dd\dd5c854494305a449898d6882c13e5bf.info
+    projectPath: Library\metadata\dd\dd5c854494305a449898d6882c13e5bf.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -136,6 +140,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: EscapeRoom\Temp\ProcessJobs\8c93616aef823613f747b1ac418406d2.bakert
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Temp\ProcessJobs\8c93616aef823613f747b1ac418406d2.bakert
+    projectPath: Temp\ProcessJobs\8c93616aef823613f747b1ac418406d2.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: EscapeRoom\Temp\UnityLockfile
     fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
