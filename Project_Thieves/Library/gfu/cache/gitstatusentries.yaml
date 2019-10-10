@@ -1,0 +1,1518 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-10-10T22:53:37.256+02:00
+  initializedAtString: 2019-10-10T22:52:04.453+02:00
+  entries:
+  - path: Project_Thieves\.idea\.idea.Project_Thieves\.idea\workspace.xml
+    fullPath: C:\Project Thieves\Project_Thieves\.idea\.idea.Project_Thieves\.idea\workspace.xml
+    projectPath: .idea\.idea.Project_Thieves\.idea\workspace.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Assets\Plugins.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Project Thieves\Project_Thieves\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Project Thieves\Project_Thieves\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\assetDatabase3
+    fullPath: C:\Project Thieves\Project_Thieves\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\EditorInstance.json
+    fullPath: C:\Project Thieves\Project_Thieves\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Project Thieves\Project_Thieves\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Project Thieves\Project_Thieves\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Project Thieves\Project_Thieves\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Project Thieves\Project_Thieves\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Project Thieves\Project_Thieves\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Project Thieves\Project_Thieves\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\87\877ef3585573ce44eab899298be23158
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\87\877ef3585573ce44eab899298be23158
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: C:\Project Thieves\Project_Thieves\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\ProtocolInstance.json
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ProtocolInstance.json
+    projectPath: Library\ProtocolInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\SceneVisibilityState.asset
+    fullPath: C:\Project Thieves\Project_Thieves\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project_Thieves\Library\ScriptAssemblies\Mirror.Authenticators.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Mirror.Authenticators.dll
+    projectPath: Library\ScriptAssemblies\Mirror.Authenticators.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\Mirror.Components.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Mirror.Components.dll
+    projectPath: Library\ScriptAssemblies\Mirror.Components.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\Mirror.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Mirror.dll
+    projectPath: Library\ScriptAssemblies\Mirror.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\Mirror.Editor.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Mirror.Editor.dll
+    projectPath: Library\ScriptAssemblies\Mirror.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\Mirror.Examples.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Mirror.Examples.dll
+    projectPath: Library\ScriptAssemblies\Mirror.Examples.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\Mirror.Weaver.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Mirror.Weaver.dll
+    projectPath: Library\ScriptAssemblies\Mirror.Weaver.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Project Thieves\Project_Thieves\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Project Thieves\Project_Thieves\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Library\StateCache\Hierarchy\ac1ec7-mainStage.json
+    fullPath: C:\Project Thieves\Project_Thieves\Library\StateCache\Hierarchy\ac1ec7-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\ac1ec7-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project_Thieves\Temp\UnityLockfile
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-0103bdcd75dc84349ad5c62ecf83e2fe
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-0103bdcd75dc84349ad5c62ecf83e2fe
+    projectPath: Temp\UnityTempFile-0103bdcd75dc84349ad5c62ecf83e2fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-05b4600bbca00e542b8859b1864a17d9
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-05b4600bbca00e542b8859b1864a17d9
+    projectPath: Temp\UnityTempFile-05b4600bbca00e542b8859b1864a17d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-096cf27751b0e8b4e901a186710e06a0
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-096cf27751b0e8b4e901a186710e06a0
+    projectPath: Temp\UnityTempFile-096cf27751b0e8b4e901a186710e06a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-0b787df4e8722774a880d300b0e10d87
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-0b787df4e8722774a880d300b0e10d87
+    projectPath: Temp\UnityTempFile-0b787df4e8722774a880d300b0e10d87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-0d5549437d18c3b468fe7ea5c5669edc
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-0d5549437d18c3b468fe7ea5c5669edc
+    projectPath: Temp\UnityTempFile-0d5549437d18c3b468fe7ea5c5669edc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-0d89ca15ad6bb84458d2f3dbb0c1bcf3
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-0d89ca15ad6bb84458d2f3dbb0c1bcf3
+    projectPath: Temp\UnityTempFile-0d89ca15ad6bb84458d2f3dbb0c1bcf3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-0ef9e581f869e4e419f662ee302904ad
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-0ef9e581f869e4e419f662ee302904ad
+    projectPath: Temp\UnityTempFile-0ef9e581f869e4e419f662ee302904ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-1837430bbe49fe24e8878a400b81e3f8
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-1837430bbe49fe24e8878a400b81e3f8
+    projectPath: Temp\UnityTempFile-1837430bbe49fe24e8878a400b81e3f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-1de7adea1c45fa445b4b4c188b505258
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-1de7adea1c45fa445b4b4c188b505258
+    projectPath: Temp\UnityTempFile-1de7adea1c45fa445b4b4c188b505258
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-1f5462e531f13854e9678bbe509d3ee8
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-1f5462e531f13854e9678bbe509d3ee8
+    projectPath: Temp\UnityTempFile-1f5462e531f13854e9678bbe509d3ee8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-20167bf492406274f905919f49637810
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-20167bf492406274f905919f49637810
+    projectPath: Temp\UnityTempFile-20167bf492406274f905919f49637810
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-222ec69450d093846a5fd568028268a9
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-222ec69450d093846a5fd568028268a9
+    projectPath: Temp\UnityTempFile-222ec69450d093846a5fd568028268a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-25cbd544af7129f459e27241a93db932
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-25cbd544af7129f459e27241a93db932
+    projectPath: Temp\UnityTempFile-25cbd544af7129f459e27241a93db932
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-2953f36d99bd1a04daf2c076c339675b
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-2953f36d99bd1a04daf2c076c339675b
+    projectPath: Temp\UnityTempFile-2953f36d99bd1a04daf2c076c339675b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-2c18abac6851ae549a67b73908095c42
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-2c18abac6851ae549a67b73908095c42
+    projectPath: Temp\UnityTempFile-2c18abac6851ae549a67b73908095c42
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-32800fa4bb1f7894890373b816651bae
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-32800fa4bb1f7894890373b816651bae
+    projectPath: Temp\UnityTempFile-32800fa4bb1f7894890373b816651bae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-37fba3e58367f314c89c687ac0a74c38
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-37fba3e58367f314c89c687ac0a74c38
+    projectPath: Temp\UnityTempFile-37fba3e58367f314c89c687ac0a74c38
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-3c0b7b5525272ff4282610c30d9713f5
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-3c0b7b5525272ff4282610c30d9713f5
+    projectPath: Temp\UnityTempFile-3c0b7b5525272ff4282610c30d9713f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-3ef86cbec2a00e345a0eeb54a5cf1b99
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-3ef86cbec2a00e345a0eeb54a5cf1b99
+    projectPath: Temp\UnityTempFile-3ef86cbec2a00e345a0eeb54a5cf1b99
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-42e607a844895a841bfd79ecb7291cba
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-42e607a844895a841bfd79ecb7291cba
+    projectPath: Temp\UnityTempFile-42e607a844895a841bfd79ecb7291cba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-44bec54ff3422cd418dcc4e67c4469f1
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-44bec54ff3422cd418dcc4e67c4469f1
+    projectPath: Temp\UnityTempFile-44bec54ff3422cd418dcc4e67c4469f1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-457a27e826c87c24fb3c668184fba43f
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-457a27e826c87c24fb3c668184fba43f
+    projectPath: Temp\UnityTempFile-457a27e826c87c24fb3c668184fba43f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-46bc25bced741084280c3ad8e7bebc12
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-46bc25bced741084280c3ad8e7bebc12
+    projectPath: Temp\UnityTempFile-46bc25bced741084280c3ad8e7bebc12
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-4c2407db8eb68614c9dae5f3777c4fcc
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-4c2407db8eb68614c9dae5f3777c4fcc
+    projectPath: Temp\UnityTempFile-4c2407db8eb68614c9dae5f3777c4fcc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-4ec879c4ec3b18944aac32af4fa44f86
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-4ec879c4ec3b18944aac32af4fa44f86
+    projectPath: Temp\UnityTempFile-4ec879c4ec3b18944aac32af4fa44f86
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-4f33c4292ab1da846899be141b181e0c
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-4f33c4292ab1da846899be141b181e0c
+    projectPath: Temp\UnityTempFile-4f33c4292ab1da846899be141b181e0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-535ff9c2ddb4ddf4298acd2134e8e979
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-535ff9c2ddb4ddf4298acd2134e8e979
+    projectPath: Temp\UnityTempFile-535ff9c2ddb4ddf4298acd2134e8e979
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-5840f2bfc04283c42ad4a354343cf975
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-5840f2bfc04283c42ad4a354343cf975
+    projectPath: Temp\UnityTempFile-5840f2bfc04283c42ad4a354343cf975
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-591106dc4cf022644b29933774baec04
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-591106dc4cf022644b29933774baec04
+    projectPath: Temp\UnityTempFile-591106dc4cf022644b29933774baec04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-5b7dfaca010d01a4382b64e06f7535ec
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-5b7dfaca010d01a4382b64e06f7535ec
+    projectPath: Temp\UnityTempFile-5b7dfaca010d01a4382b64e06f7535ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-5e36da302dec7a64286a7bb2836f3581
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-5e36da302dec7a64286a7bb2836f3581
+    projectPath: Temp\UnityTempFile-5e36da302dec7a64286a7bb2836f3581
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-60671cf67c27a0a4d9263b2721f0a908
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-60671cf67c27a0a4d9263b2721f0a908
+    projectPath: Temp\UnityTempFile-60671cf67c27a0a4d9263b2721f0a908
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-68a588299ae705e4aa5b692fc22e7dae
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-68a588299ae705e4aa5b692fc22e7dae
+    projectPath: Temp\UnityTempFile-68a588299ae705e4aa5b692fc22e7dae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-6b02d020ffed7184a98f9c8abd538cc7
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-6b02d020ffed7184a98f9c8abd538cc7
+    projectPath: Temp\UnityTempFile-6b02d020ffed7184a98f9c8abd538cc7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-7193389f7c2195146ab346a2a13d2dbd
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-7193389f7c2195146ab346a2a13d2dbd
+    projectPath: Temp\UnityTempFile-7193389f7c2195146ab346a2a13d2dbd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-71d73dc97cd243f41aaefb79adb774b8
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-71d73dc97cd243f41aaefb79adb774b8
+    projectPath: Temp\UnityTempFile-71d73dc97cd243f41aaefb79adb774b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-73b946e94aafe5d4dbe308751288e2a7
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-73b946e94aafe5d4dbe308751288e2a7
+    projectPath: Temp\UnityTempFile-73b946e94aafe5d4dbe308751288e2a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-754a33f560854bc498a8b4b6e7338417
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-754a33f560854bc498a8b4b6e7338417
+    projectPath: Temp\UnityTempFile-754a33f560854bc498a8b4b6e7338417
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-757e9500690144b4cb4526ed489ff8e4
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-757e9500690144b4cb4526ed489ff8e4
+    projectPath: Temp\UnityTempFile-757e9500690144b4cb4526ed489ff8e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-767981acad67fcd45b4f022ee9801cf1
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-767981acad67fcd45b4f022ee9801cf1
+    projectPath: Temp\UnityTempFile-767981acad67fcd45b4f022ee9801cf1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-789845061fc937f44a033f0a733a2af9
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-789845061fc937f44a033f0a733a2af9
+    projectPath: Temp\UnityTempFile-789845061fc937f44a033f0a733a2af9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-812872bc745563e4ea93350e82286ded
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-812872bc745563e4ea93350e82286ded
+    projectPath: Temp\UnityTempFile-812872bc745563e4ea93350e82286ded
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-829333687f2dcfa40a37b71ec005644c
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-829333687f2dcfa40a37b71ec005644c
+    projectPath: Temp\UnityTempFile-829333687f2dcfa40a37b71ec005644c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-8b6db7f5de1323c4baac0cd417419d07
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-8b6db7f5de1323c4baac0cd417419d07
+    projectPath: Temp\UnityTempFile-8b6db7f5de1323c4baac0cd417419d07
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-90613fdadf780b54caf505ab2be89bad
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-90613fdadf780b54caf505ab2be89bad
+    projectPath: Temp\UnityTempFile-90613fdadf780b54caf505ab2be89bad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-9c205a5fff805e946a98b0bfc2fef94c
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-9c205a5fff805e946a98b0bfc2fef94c
+    projectPath: Temp\UnityTempFile-9c205a5fff805e946a98b0bfc2fef94c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-9d7aeeb823dd78e4d80ec97b09ca6c6f
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-9d7aeeb823dd78e4d80ec97b09ca6c6f
+    projectPath: Temp\UnityTempFile-9d7aeeb823dd78e4d80ec97b09ca6c6f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-a4145241608dca3479ded1fd91c80da8
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-a4145241608dca3479ded1fd91c80da8
+    projectPath: Temp\UnityTempFile-a4145241608dca3479ded1fd91c80da8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-a45256af9723331439bd1ff4f9ccf8e0
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-a45256af9723331439bd1ff4f9ccf8e0
+    projectPath: Temp\UnityTempFile-a45256af9723331439bd1ff4f9ccf8e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-a65561ffcc1d8174caad0524f4966175
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-a65561ffcc1d8174caad0524f4966175
+    projectPath: Temp\UnityTempFile-a65561ffcc1d8174caad0524f4966175
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-af22f5177db48694399c133cf073ec19
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-af22f5177db48694399c133cf073ec19
+    projectPath: Temp\UnityTempFile-af22f5177db48694399c133cf073ec19
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-b1bf37acf2ac04f46ab2f975b150263d
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-b1bf37acf2ac04f46ab2f975b150263d
+    projectPath: Temp\UnityTempFile-b1bf37acf2ac04f46ab2f975b150263d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-b1e1b143f423d3e45a8cd4ac486cb8ac
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-b1e1b143f423d3e45a8cd4ac486cb8ac
+    projectPath: Temp\UnityTempFile-b1e1b143f423d3e45a8cd4ac486cb8ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-b3337fde945901744a97de6db1073da6
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-b3337fde945901744a97de6db1073da6
+    projectPath: Temp\UnityTempFile-b3337fde945901744a97de6db1073da6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-b3c1b0158a8d9f948a05eb7c4622c626
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-b3c1b0158a8d9f948a05eb7c4622c626
+    projectPath: Temp\UnityTempFile-b3c1b0158a8d9f948a05eb7c4622c626
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-b4954f61fd49ec547a6f957e47a777db
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-b4954f61fd49ec547a6f957e47a777db
+    projectPath: Temp\UnityTempFile-b4954f61fd49ec547a6f957e47a777db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-b5d7e3b4c8361fd42ae4d7611861dbbb
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-b5d7e3b4c8361fd42ae4d7611861dbbb
+    projectPath: Temp\UnityTempFile-b5d7e3b4c8361fd42ae4d7611861dbbb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-bd3cebb21299e2d41953ebff29a24e4f
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-bd3cebb21299e2d41953ebff29a24e4f
+    projectPath: Temp\UnityTempFile-bd3cebb21299e2d41953ebff29a24e4f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-bdd15e5eed433864884a8080442794d9
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-bdd15e5eed433864884a8080442794d9
+    projectPath: Temp\UnityTempFile-bdd15e5eed433864884a8080442794d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-be6e67ded67efeb47bf401b07b7d831b
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-be6e67ded67efeb47bf401b07b7d831b
+    projectPath: Temp\UnityTempFile-be6e67ded67efeb47bf401b07b7d831b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-c00550d257c774e4fa66427f156ef1e9
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-c00550d257c774e4fa66427f156ef1e9
+    projectPath: Temp\UnityTempFile-c00550d257c774e4fa66427f156ef1e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-c2af4be25e8540944badd736f31b98a0
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-c2af4be25e8540944badd736f31b98a0
+    projectPath: Temp\UnityTempFile-c2af4be25e8540944badd736f31b98a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-c3a222ba78dd75b4097dcd63d8c28488
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-c3a222ba78dd75b4097dcd63d8c28488
+    projectPath: Temp\UnityTempFile-c3a222ba78dd75b4097dcd63d8c28488
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-cd745e197114ee54cac30c71028f64a1
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-cd745e197114ee54cac30c71028f64a1
+    projectPath: Temp\UnityTempFile-cd745e197114ee54cac30c71028f64a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-d046df75b83ce6641aabc155412755ef
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-d046df75b83ce6641aabc155412755ef
+    projectPath: Temp\UnityTempFile-d046df75b83ce6641aabc155412755ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-d483c714708c4c247b2301d28569e9a8
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-d483c714708c4c247b2301d28569e9a8
+    projectPath: Temp\UnityTempFile-d483c714708c4c247b2301d28569e9a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-d6f4443b13d97e74390507b25dcfa183
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-d6f4443b13d97e74390507b25dcfa183
+    projectPath: Temp\UnityTempFile-d6f4443b13d97e74390507b25dcfa183
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-d8b4f86f4010d4946a216f8386d3d5e1
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-d8b4f86f4010d4946a216f8386d3d5e1
+    projectPath: Temp\UnityTempFile-d8b4f86f4010d4946a216f8386d3d5e1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-db314c0b49fbbf248bf49fbed31724cb
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-db314c0b49fbbf248bf49fbed31724cb
+    projectPath: Temp\UnityTempFile-db314c0b49fbbf248bf49fbed31724cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-dc7cd344b6316d74585841e93bea732b
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-dc7cd344b6316d74585841e93bea732b
+    projectPath: Temp\UnityTempFile-dc7cd344b6316d74585841e93bea732b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-dc98479fa677e8d4eaae56a3b27919b3
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-dc98479fa677e8d4eaae56a3b27919b3
+    projectPath: Temp\UnityTempFile-dc98479fa677e8d4eaae56a3b27919b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-df72eab713b8d134e96f03303e924e54
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-df72eab713b8d134e96f03303e924e54
+    projectPath: Temp\UnityTempFile-df72eab713b8d134e96f03303e924e54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-e02cc53189c19cf4d90fe9a43137ead9
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-e02cc53189c19cf4d90fe9a43137ead9
+    projectPath: Temp\UnityTempFile-e02cc53189c19cf4d90fe9a43137ead9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-e089dd66d03dd814faffdc1803b65d27
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-e089dd66d03dd814faffdc1803b65d27
+    projectPath: Temp\UnityTempFile-e089dd66d03dd814faffdc1803b65d27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-e1fbe7dd71c7b744093c90691109c42c
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-e1fbe7dd71c7b744093c90691109c42c
+    projectPath: Temp\UnityTempFile-e1fbe7dd71c7b744093c90691109c42c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-e44ea8e56faddeb4b932534d4eb77e91
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-e44ea8e56faddeb4b932534d4eb77e91
+    projectPath: Temp\UnityTempFile-e44ea8e56faddeb4b932534d4eb77e91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-e80b15490dbf6ab4283397fdba3d3d53
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-e80b15490dbf6ab4283397fdba3d3d53
+    projectPath: Temp\UnityTempFile-e80b15490dbf6ab4283397fdba3d3d53
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-f3c30f4ab9d68694386e2927d6c7a0e4
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-f3c30f4ab9d68694386e2927d6c7a0e4
+    projectPath: Temp\UnityTempFile-f3c30f4ab9d68694386e2927d6c7a0e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-f9050906a7879ca4987b2e0f6fa79105
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-f9050906a7879ca4987b2e0f6fa79105
+    projectPath: Temp\UnityTempFile-f9050906a7879ca4987b2e0f6fa79105
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-f91ff8ecf7d9fa642bc630ac58a64966
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-f91ff8ecf7d9fa642bc630ac58a64966
+    projectPath: Temp\UnityTempFile-f91ff8ecf7d9fa642bc630ac58a64966
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-f98e0f9a91cda3f459e5904311aab612
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-f98e0f9a91cda3f459e5904311aab612
+    projectPath: Temp\UnityTempFile-f98e0f9a91cda3f459e5904311aab612
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-fc7d09d2478ccfd4e8c1972db4ed4d08
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-fc7d09d2478ccfd4e8c1972db4ed4d08
+    projectPath: Temp\UnityTempFile-fc7d09d2478ccfd4e8c1972db4ed4d08
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project_Thieves\Temp\UnityTempFile-ffcb4c325f659ca4e8fe583bc6c5f419
+    fullPath: C:\Project Thieves\Project_Thieves\Temp\UnityTempFile-ffcb4c325f659ca4e8fe583bc6c5f419
+    projectPath: Temp\UnityTempFile-ffcb4c325f659ca4e8fe583bc6c5f419
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

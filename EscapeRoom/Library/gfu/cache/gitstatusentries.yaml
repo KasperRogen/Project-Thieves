@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-10-06T20:33:35.636+02:00
+  initializedAtString: 2019-10-06T20:18:35.489+02:00
+  entries:
+  - path: EscapeRoom\Assets\Level Design\AltBane.obj.meta
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Assets\Level
+      Design\AltBane.obj.meta
+    projectPath: Assets\Level Design\AltBane.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Assets\Level Design\Glas.obj.meta
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Assets\Level
+      Design\Glas.obj.meta
+    projectPath: Assets\Level Design\Glas.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Assets\Level Design\GroundPlane.obj.meta
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Assets\Level
+      Design\GroundPlane.obj.meta
+    projectPath: Assets\Level Design\GroundPlane.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Assets\Scenes\SampleScene\NavMesh.asset
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Assets\Scenes\SampleScene\NavMesh.asset
+    projectPath: Assets\Scenes\SampleScene\NavMesh.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: EscapeRoom\Assets\Scenes\SampleScene\NavMesh.asset.meta
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Assets\Scenes\SampleScene\NavMesh.asset.meta
+    projectPath: Assets\Scenes\SampleScene\NavMesh.asset.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: EscapeRoom\Library\assetDatabase3
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Library\EditorInstance.json
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: EscapeRoom\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Library\metadata\0d\0d7e9b0860b03184c84fc29fee849d55
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\0d\0d7e9b0860b03184c84fc29fee849d55
+    projectPath: Library\metadata\0d\0d7e9b0860b03184c84fc29fee849d55
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: EscapeRoom\Library\metadata\0d\0d7e9b0860b03184c84fc29fee849d55.info
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\0d\0d7e9b0860b03184c84fc29fee849d55.info
+    projectPath: Library\metadata\0d\0d7e9b0860b03184c84fc29fee849d55.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: EscapeRoom\Library\metadata\55\558a6807535880347a091f2725e16728
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\55\558a6807535880347a091f2725e16728
+    projectPath: Library\metadata\55\558a6807535880347a091f2725e16728
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Library\metadata\55\558a6807535880347a091f2725e16728.info
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\55\558a6807535880347a091f2725e16728.info
+    projectPath: Library\metadata\55\558a6807535880347a091f2725e16728.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Library\metadata\dd\dd5c854494305a449898d6882c13e5bf
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\dd\dd5c854494305a449898d6882c13e5bf
+    projectPath: Library\metadata\dd\dd5c854494305a449898d6882c13e5bf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Library\metadata\dd\dd5c854494305a449898d6882c13e5bf.info
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\dd\dd5c854494305a449898d6882c13e5bf.info
+    projectPath: Library\metadata\dd\dd5c854494305a449898d6882c13e5bf.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Library\metadata\ee\ee35c68a59b8f7a4cb66e1f423afe6dc
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\ee\ee35c68a59b8f7a4cb66e1f423afe6dc
+    projectPath: Library\metadata\ee\ee35c68a59b8f7a4cb66e1f423afe6dc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Library\metadata\ee\ee35c68a59b8f7a4cb66e1f423afe6dc.info
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Library\metadata\ee\ee35c68a59b8f7a4cb66e1f423afe6dc.info
+    projectPath: Library\metadata\ee\ee35c68a59b8f7a4cb66e1f423afe6dc.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\ProjectSettings\NavMeshAreas.asset
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Temp\ProcessJobs\8c93616aef823613f747b1ac418406d2.bakert
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Temp\ProcessJobs\8c93616aef823613f747b1ac418406d2.bakert
+    projectPath: Temp\ProcessJobs\8c93616aef823613f747b1ac418406d2.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: EscapeRoom\Temp\UnityLockfile
+    fullPath: C:\Users\Anders\Documents\Thieves\Project-Thieves\EscapeRoom\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

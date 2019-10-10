@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":false},"in2DMode":false,"pivot":{"x":36.4286003112793,"y":-102.92839050292969,"z":-77.26031494140625},"rotation":{"x":-0.09092391282320023,"y":-0.9044058918952942,"z":0.3321587145328522,"w":-0.2545402944087982},"size":211.51968383789063,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":false},"in2DMode":false,"pivot":{"x":-29.466049194335939,"y":-12.328208923339844,"z":-82.28926849365235},"rotation":{"x":0.004463568329811096,"y":0.9928802847862244,"z":-0.0767369493842125,"w":0.0985109880566597},"size":102.61099243164063,"orthographic":false}
+>>>>>>> LevelDesign
